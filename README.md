@@ -6,23 +6,23 @@ This script allows you to play and song with a YouTube link straight into the us
 game Also being server synced making sure every person can hear within the area set.
 This is very useful for clubs and such so the dj can just paste the link and play. 
 
-##Features
+#### Features
 
 * Play any YouTube song with just the link
 * Can change the volume within the game
 * Has the option to change the distance of the song
 * Add as many locations as you want in the config file
 
-##Planned Updates
+#### Planned Updates
 
 * Adding a portable speaker to play music anywhere any time
 * Adding car radios with ui
 
-##Preview
+#### Preview
 
 WIP
 
-##Requirements
+#### Requirements
 
 * Nh-Context [Here](https://github.com/known-001/nh-context)
 * Nh-Keyboard [Here](https://github.com/nerohiro/nh-keyboard)
