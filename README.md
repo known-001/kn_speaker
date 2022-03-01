@@ -27,6 +27,7 @@ WIP
 * Nh-Context [Here](https://github.com/known-001/nh-context)
 * Nh-Keyboard [Here](https://github.com/nerohiro/nh-keyboard)
 * xSound [Here](https://github.com/Xogy/xsound)
+* CD_drawtextui [Here] (https://forum.cfx.re/t/free-release-draw-text-ui/1885313)
 
 Enjoy!
 Kn Dev Team 
